@@ -1,0 +1,2 @@
+# skillxchange-webapp
+ SkillXchange – Talent Barter + Personal Hub is an innovative platform that empowers individuals to exchange skills directly without monetary transactions. Users can showcase their talents, connect with others, collaborate on projects, and manage their personal portfolio—all in one place. It’s a next-gen solution for community-driven learning, talent exchange, and personal branding.
